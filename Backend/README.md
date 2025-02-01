@@ -16,8 +16,9 @@ Welcome to the **FAQ Management System**! 🚀 This is a backend application bui
 
 ### 1️⃣ Clone the Repository
 ```sh
-$ git clone https://github.com/your-repo/faq-management.git
-$ cd faq-management
+$ git clone https://github.com/AbhisekhNayek/FAQ-Management.git
+
+$ cd Backend
 ```
 
 ### 2️⃣ Install Dependencies
